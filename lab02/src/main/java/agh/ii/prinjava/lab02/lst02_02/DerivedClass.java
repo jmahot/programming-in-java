@@ -1,6 +1,6 @@
 package agh.ii.prinjava.lab02.lst02_02;
 
-public class DerivedClass extends BaseClass {
+class DerivedClass extends BaseClass {
 
     @Override
     public void m2() {

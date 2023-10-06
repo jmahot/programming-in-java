@@ -1,6 +1,6 @@
 package agh.ii.prinjava.lab02.lst02_02;
 
-public class BaseClass {
+class BaseClass {
     public BaseClass() {
         System.out.println("Initialisation of BaseClass...");
 

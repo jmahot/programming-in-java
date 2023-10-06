@@ -5,21 +5,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a36ce3ab-e1fe-4e5b-ab34-90cf3801cd59" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab00/src/main/java/agh/ii/prinjava/lab00/lst00_01/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab00/src/main/java/agh/ii/prinjava/lab00/lst00_01/CalcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab00/src/main/java/agh/ii/prinjava/lab00/lst00_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab01/src/test/java/agh/ii/prinjava/lab01/lst01_01/HelloEncapsulationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_01/HelloFinalVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01 - Raccourci.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_01/HelloEncapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_02/RichDad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_02/RichDadsKid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_03/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_03/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_03/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_04/HelloStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_05/HelloObjectInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_06/ClassFamily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_07/HelloFactoryMeth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_08/EagerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_08/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_08/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_08/UnsafeSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_09/HelloImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_09/HelloJavaRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_09/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_10/DemoClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_10/HashCodeOK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_10/HashCodeProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab01/src/main/java/agh/ii/prinjava/lab01/lst01_10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02 - Raccourci.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lab02-solutions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_08/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_09/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/exc03_01/QueueOfInts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/exc03_01/impl/LinkedListBasedImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/exc03_01/impl/QueueOfIntsFtry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lab03-solutions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_01/Error1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_01/RunTimeEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_02/CheckedEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_02/CheckedEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_03/CheckedEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_04/ChEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_04/ChEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_04/Resource1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_04/Resource2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_08/Dunedain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_08/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_08/Orc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_08/Reliable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_09/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_09/NonSerializableClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_09/NonSerializableCls2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_09/SerializableCls1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_09/SerializableCls2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_09/SerializableCls3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_09/SerializableCls4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_10/DeepCloner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lst03_10/ShalowCloner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab03/src/test/java/agh/ii/prinjava/lab03/exc03_01/QueueOfIntsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
@@ -32,9 +99,6 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
-    <projectState path="$PROJECT_DIR$">
-      <ProjectState />
-    </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
@@ -43,6 +107,9 @@
           <activation />
         </task>
         <task path="$PROJECT_DIR$/lab01">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/lab02">
           <activation />
         </task>
         <projects_view>
@@ -81,24 +148,6 @@
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="verification" type="c8890929:TasksNode$1" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="programming-in-java" type="f1a62948:ProjectNode" />
-                <item name="lab01" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="programming-in-java" type="f1a62948:ProjectNode" />
-                <item name="lab01" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="programming-in-java" type="f1a62948:ProjectNode" />
-                <item name="lab01" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="verification" type="c8890929:TasksNode$1" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -109,8 +158,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -132,38 +181,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers&quot;: &quot;true&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "create.test.in.the.same.root": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_directory_selection": "C:/Users/Julie/Documents/ECOLE/EFREI/COURS Efrei/Semestre 5 Pologne/Programming in Java/programming-in-java/lab03/src/test/java/agh/ii/prinjava/lab03/exc03_01",
+    "last_opened_file_path": "C:/Users/Julie/Documents/ECOLE/EFREI/COURS Efrei/Semestre 5 Pologne/Programming in Java/programming-in-java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Julie\Documents\ECOLE\EFREI\COURS Efrei\Semestre 5 Pologne\Programming in Java\programming-in-java\lab03" />
       <recent name="C:\Users\Julie\Documents\ECOLE\EFREI\COURS Efrei\Semestre 5 Pologne\Programming in Java\programming-in-java" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="agh.ii.prinjava.lab03.exc03_01" />
+      <recent name="agh.ii.prinjava.lab03.exc03_01.impl" />
+      <recent name="agh.ii.prinjava.lab02.exc02_01" />
+      <recent name="agh.ii.prinjava.lab02.exc02_01.impl" />
       <recent name="agh.ii.prinjava.lab01.lst01_01" />
-      <recent name="agh.ii.prinjava.lab00.lst00_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Programming-in-java:lab01 [check]">
-    <configuration name="Programming-in-java [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="agh.ii.prinjava.lab02.lst02_04.Main" />
+      <module name="programming-in-java.lab02.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agh.ii.prinjava.lab02.lst02_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agh.ii.prinjava.lab02.lst02_03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="agh.ii.prinjava.lab02.lst02_03.Main" />
+      <module name="programming-in-java.lab02.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agh.ii.prinjava.lab02.lst02_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programming-in-java:lab01 [test] (1)" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lab01" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -181,10 +263,10 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Programming-in-java:lab01 [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Programming-in-java:lab02 [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/lab01" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lab02" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -202,10 +284,10 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Programming-in-java:lab01 [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Programming-in-java:lab02 [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/lab01" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lab02" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -225,9 +307,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.Programming-in-java:lab01 [check]" />
-        <item itemvalue="Gradle.Programming-in-java [test]" />
-        <item itemvalue="Gradle.Programming-in-java:lab01 [test]" />
+        <item itemvalue="Gradle.Programming-in-java:lab02 [test]" />
+        <item itemvalue="Application.agh.ii.prinjava.lab02.lst02_03.Main" />
+        <item itemvalue="Gradle.Programming-in-java:lab02 [check]" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +332,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694776451547</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1696525187235</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696525187235</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1696598301995</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696598301995</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,5 +366,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/programming_in_java$Programming_in_java_lab01__check_.ic" NAME="Programming-in-java:lab01 [check] Coverage Results" MODIFIED="1695331815166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/programming_in_java$Programming_in_java_lab02__test_.ic" NAME="Programming-in-java:lab02 [test] Coverage Results" MODIFIED="1696525382337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/programming_in_java$StackOfIntsTest.ic" NAME="StackOfIntsTest Coverage Results" MODIFIED="1696548347899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
