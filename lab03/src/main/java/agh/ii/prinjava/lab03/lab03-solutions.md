@@ -2,7 +2,7 @@ Name : Julie MAHOT
 
 Group : 2
 
-# Exercises LAB 2 - Programming in Java
+# Exercises LAB 3 - Programming in Java
 
 ___
 
@@ -171,4 +171,22 @@ It's commonly used in try-with-resources to ensure that resources are properly c
 
 ## 8) Mini project 03_01 (exc03_01)
 
+    1) [c] The implementation of interface QueueOfInts:
+
+    2) Complete the linked list based implementation - LinkedListBasedImpl:
+        - use nested class Node as the linked list building block
+        - use the simplest possible implementation of the linked list (only two operations are required: adding an element at the front and removing an element from the back of the list)
+        - add exception handling (checked/unchecked)
+        - [ optional ] add serialization/deserialization of the queue
+    3) Add JavaDoc comments to the interface and all its methods; pay attention to the following tags:
+        @param
+        @return
+        @throws
+    4) Add JavaDoc comments to LinkedListBasedImpl (the class itself and all its methods)
+    5) Write unit tests for different cases
+
+
+## 9) Push the commits to the remote repository
+
+I pushed the commits.
 
