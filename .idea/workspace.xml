@@ -5,22 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a36ce3ab-e1fe-4e5b-ab34-90cf3801cd59" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04/src/main/java/agh/ii/prinjava/lab04/lab04-solutions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04/src/main/java/agh/ii/prinjava/lab04/lst04_01/BoxForInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04/src/main/java/agh/ii/prinjava/lab04/lst04_01/BoxForObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04/src/main/java/agh/ii/prinjava/lab04/lst04_01/BoxForString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04/src/main/java/agh/ii/prinjava/lab04/lst04_02/GenBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04/src/main/java/agh/ii/prinjava/lab04/lst04_03/C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04/src/main/java/agh/ii/prinjava/lab04/lst04_03/C2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04/src/main/java/agh/ii/prinjava/lab04/lst04_03/C3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04/src/main/java/agh/ii/prinjava/lab04/lst04_03/C4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04/src/main/java/agh/ii/prinjava/lab04/lst04_03/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04/src/main/java/agh/ii/prinjava/lab04/lst04_03/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04/src/main/java/agh/ii/prinjava/lab04/lst04_03/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab04 - Raccourci.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab04 - Tests.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab05/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab05/src/main/java/agh/ii/prinjava/lab05/Julie MAHOT - programming-in-java - Lab 5 solutions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab05/src/main/java/agh/ii/prinjava/lab05/lst05_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab05/src/main/java/agh/ii/prinjava/lab05/lst05_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab05/src/main/java/agh/ii/prinjava/lab05/lst05_03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab05/src/main/java/agh/ii/prinjava/lab05/lst05_04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab05/src/main/java/agh/ii/prinjava/lab05/lst05_05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab05/src/main/java/agh/ii/prinjava/lab05/lst05_06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab05/src/main/java/agh/ii/prinjava/lab05/lst05_07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab06/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab06/src/main/java/agh/ii/prinjava/lab06/Julie MAHOT - programming-in-java - Lab 6 solutions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab06/src/main/java/agh/ii/prinjava/lab06/lst06_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab06/src/main/java/agh/ii/prinjava/lab06/lst06_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab06/src/main/java/agh/ii/prinjava/lab06/lst06_03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab06/src/main/java/agh/ii/prinjava/lab06/lst06_04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab06/src/main/java/agh/ii/prinjava/lab06/lst06_05/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lab03-solutions.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/src/main/java/agh/ii/prinjava/lab03/lab03-solutions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,18 +129,23 @@
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
     &quot;last_directory_selection&quot;: &quot;C:/Users/Julie/Documents/ECOLE/EFREI/COURS Efrei/Semestre 5 Pologne/Programming in Java/programming-in-java/lab03/src/test/java/agh/ii/prinjava/lab03/exc03_01&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Julie/Documents/ECOLE/EFREI/COURS Efrei/Semestre 5 Pologne/Programming in Java/Project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Julie/Documents/ECOLE/EFREI/COURS Efrei/Semestre 5 Pologne/Programming in Java/programming-in-java/lab07/src/main/java/agh/ii/prinjava/lab07&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Julie\Documents\ECOLE\EFREI\COURS Efrei\Semestre 5 Pologne\Programming in Java\programming-in-java\lab07\src\main\java\agh\ii\prinjava\lab07" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Julie\Documents\ECOLE\EFREI\COURS Efrei\Semestre 5 Pologne\Programming in Java\programming-in-java\lab05\src\main\java\agh\ii\prinjava\lab05" />
+      <recent name="C:\Users\Julie\Documents\ECOLE\EFREI\COURS Efrei\Semestre 5 Pologne\Programming in Java\programming-in-java\lab05\src" />
       <recent name="C:\Users\Julie\Documents\ECOLE\EFREI\COURS Efrei\Semestre 5 Pologne\Programming in Java\programming-in-java" />
       <recent name="C:\Users\Julie\Documents\ECOLE\EFREI\COURS Efrei\Semestre 5 Pologne\Programming in Java\programming-in-java\lab03" />
     </key>
@@ -148,7 +157,7 @@
       <recent name="agh.ii.prinjava.lab02.exc02_01.impl" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.PairTest.testPairClone">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="agh.ii.prinjava.lab02.lst02_04.Main" />
       <module name="programming-in-java.lab02.main" />
@@ -331,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697161562440</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit">
+      <created>1697766021363</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697766021363</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
